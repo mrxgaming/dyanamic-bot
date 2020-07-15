@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "This is a simple test and experiment bot",
     "main": "Dyanamic-bot.js",
-    "author": "TheNaman047",
+    "author": "mrxgaming",
     "scripts": {
         "start": "node bot.js"
     },
