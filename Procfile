@@ -1,0 +1,1 @@
+workre: node bot.js
